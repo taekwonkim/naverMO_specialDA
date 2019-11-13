@@ -3,4 +3,4 @@
 # naverMO_specialDA
 [네이버MO 스페셜DA] 관련 첫구매 페이지
 
-https://nayo.hellonature.me/HN/PROMOTION/issue/338
+<a href="https://nayo.hellonature.me/HN/PROMOTION/issue/338" target="_blank">https://nayo.hellonature.me/HN/PROMOTION/issue/338</a>
